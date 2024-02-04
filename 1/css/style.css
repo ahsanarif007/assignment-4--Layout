@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    height: 50px;
+    background-color: cornflowerblue;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: large;
+}
+
+.banner{
+    text-align: center;
+    background-color: blueviolet;
+    color: chocolate;
+    font-size: 50px;
+    height: 100px;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(10, 9, 10);
+    color: rgb(213, 226, 221);
+    font-size: large;
+    height: 50px;
+}
+
+.about_image{
+    width: 50%;
+    height: 400px;
+    background-color: chartreuse;
+    text-align: center;
+    color: darkolivegreen;
+
+}
+.about_contant{
+    width: 50%;
+    height: 400px;
+    background-color: rgb(102, 192, 207);
+    text-align: center;
+    color: rgb(217, 138, 228);
+}
+.about{
+    display: flex;
+}
+.mid{
+    display: flex;
+}
+.midone{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(207, 217, 219);
+    text-align: center;
+    color: rgb(6, 165, 165);
+}
+.midtwo{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(16, 146, 12);
+    text-align: center;
+    color: rgb(118, 54, 236);
+}
+.midthree{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(175, 111, 26);
+    text-align: center;
+    color: rgb(236, 196, 216);
+}
+.work{
+    display: flex;
+}
+.work_one{
+    width: 25%;
+    height: 200px;
+    background-color: rgb(216, 117, 216);
+    text-align: center;
+    color: rgb(253, 252, 255);
+}
+.work_two{
+    width: 25%;
+    height: 200px;
+    background-color: rgb(216, 204, 33);
+    text-align: center;
+    color: rgb(7, 6, 10);
+}
+.work_three{
+    width: 25%;
+    height: 200px;
+    background-color: rgb(179, 218, 178);
+    text-align: center;
+    color: rgb(107, 166, 214);
+}
+.work_four{
+    width: 25%;
+    height: 200px;
+    background-color: rgb(8, 124, 128);
+    text-align: center;
+    color: rgb(227, 223, 235);
+}
